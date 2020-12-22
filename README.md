@@ -19,14 +19,14 @@
  <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/>
  </p>
  
- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=diegosfc100&show_icons=true&theme=dark" alt="diegorodrigues" /> </p>
+ <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=diegosfc100&show_icons=true&theme=radical" alt="diegorodrigues" /> </p>
 
 <details>
   <summary>🔥 Top languages</summary>
   <br>
   
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegosfc100&layout=compact&theme=dark)](https://github.com/diegosfc100/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegosfc100&layout=compact&theme=radical)](https://github.com/diegosfc100/github-readme-stats)
 </details>
 
 <p align="center">
