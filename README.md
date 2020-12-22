@@ -26,3 +26,6 @@
 <a href="https://www.linkedin.com/in/dgorodrigues7/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="diegorodrigues" height="20" width="20" /></a>
 <a href="https://instagram.com/dgo_rodrigues7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="diegorodrigues" height="20" width="20" /></a>
 </p>
+
+
+> "Learning is continuous and the next level will never be the last."!
