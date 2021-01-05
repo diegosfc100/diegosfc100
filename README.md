@@ -9,15 +9,20 @@
 
 - 📫 How to reach me **diego.sfc100@hotmail.com**
 
-- ⚡ Ask me about **football, fish, aquariums, movies, beaches and trails, cars ...** :fish: :soccer: 
+- Ask me about **football, fish, aquariums, movies, beaches and trails, cars ...** :fish: :soccer: 
 
-<p align="left">
-<img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/>
- <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
- <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/>
- <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/>
- </p>
+## ⚡ Technologies
+
+These are some of the technologies and tools that I work with:
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)
+![Git](https://img.shields.io/badge/-Git-white?logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white)
+
+
  
  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=diegosfc100&show_icons=true&theme=radical" alt="diegorodrigues" /> </p>
 
