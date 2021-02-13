@@ -1,22 +1,6 @@
 <h1 align="center">Hi 👋, I'm Diego Rodrigues</h1>
 
 
-```javascript
-let Diego = {
-    code: [HTML, CSS, JavaScript],
-    SO: [Linux],
-    roadmap_2021: [React, Node, Sass, Bootstrap, TypeScript]
-  
- 
-}
-```
-
-
-
-
-
-
- 
 
 
   
