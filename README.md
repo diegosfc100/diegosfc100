@@ -1,11 +1,12 @@
-<h1 align="center">Hi 👋, I'm Diego Rodrigues</h1>
+### Hi there, I'm Diego Rodrigues. I'm a Brazilian student of web development (Front-End).
+<br>
 <br>
 
 ### Languages and Tools:
 
 <img align="left" alt="html5" width="35px" height="35px" src="./images/html.png" >
 <img align="left" alt="css" width="35px" height="35px" src="./images/css.png" >
-<img align="left" alt="js" width="30px" height="30px" src="./images/js.png" >
+<img align="left" alt="js" width="35px" height="35px" src="./images/js.png" >
 <img align="left" alt="git" width="30px" height="30px" src="./images/git.png" >
 <img align="left" alt="vscode" width="30px" height="30px" src="./images/vscode.png" >
 <br>
