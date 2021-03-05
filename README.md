@@ -1,8 +1,7 @@
 ### Hi there, I'm Diego Rodrigues. I'm a Brazilian student of web development (Front-End).
-<br>
-<br>
 
-### Languages and Tools:
+
+#### Languages and Tools:
 
 <img align="left" alt="html5" width="35px" height="35px" src="./images/html.png" >
 <img align="left" alt="css" width="35px" height="35px" src="./images/css.png" >
@@ -14,7 +13,7 @@
 
 
  
-### Connect with me:
+#### Connect with me:
 <p align="center">
 <a href="https://twitter.com/dgo_rodrigues7" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="diegorodrigues" height="20" width="20" /></a>
 <a href="https://www.linkedin.com/in/dgorodrigues7/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="diegorodrigues" height="20" width="20" /></a>
